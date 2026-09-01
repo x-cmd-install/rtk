@@ -1,0 +1,60 @@
+about:
+  description: CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
+  license: Apache-2.0
+  homepage: https://www.rtk-ai.app
+  head: e8541d1
+  archived: false
+  latestVersion: dev-0.47.0-rc.381
+  collectedAt: 2026-09-01T05:23:32Z
+timeline:
+  created: 2026-01-22
+  lastCommit: 2026-08-31
+  lastRelease: 2026-08-31
+popularity:
+  star: 78102
+  watcher: 211
+  fork: 4923
+  release: 298
+  contributor: 136
+  pullRequest: 1607
+  issue: 1510
+language:
+  Rust: 3304651
+  Shell: 136914
+  TypeScript: 43569
+  Python: 21267
+  Ruby: 1178
+totalLine: 3507579
+recent:
+  last30d:
+    since: 2026-08-02
+    release: 29
+    mergedPR: 15
+    openPR: 183
+    closedIssue: 17
+    openIssue: 181
+    commit: 87
+  last90d:
+    since: 2026-06-03
+    release: 100
+    mergedPR: 106
+    openPR: 653
+    closedIssue: 105
+    openIssue: 485
+    commit: 344
+  last180d:
+    since: 2026-03-05
+    release: 100
+    mergedPR: 411
+    openPR: 1018
+    closedIssue: 367
+    openIssue: 1019
+    commit: 878
+  last360d:
+    since: 2025-09-06
+    release: 100
+    mergedPR: 572
+    openPR: 1023
+    closedIssue: 474
+    openIssue: 1036
+    commit: 1151
