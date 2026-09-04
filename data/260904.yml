@@ -1,60 +1,88 @@
 about:
-  description: CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
+  description:
+  |
+    CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
   license: Apache-2.0
   homepage: https://www.rtk-ai.app
-  head: 9cf048a
+  head: 84f629d
   archived: false
-  latestVersion: dev-0.48.0-rc.400
-  collectedAt: 2026-09-04T04:50:08Z
+  latestVersion: dev-0.48.1-rc.405
+  collectedAt: 2026-09-04T19:49:22Z
 timeline:
   created: 2026-01-22
-  lastCommit: 2026-09-03
-  lastRelease: 2026-09-03
+  lastCommit: 2026-09-04
+  lastRelease: 2026-09-04
 popularity:
-  star: 78479
+  star: 78571
   watcher: 212
-  fork: 4961
-  release: 311
+  fork: 4966
+  release: 315
   contributor: 141
-  pullRequest: 1629
-  issue: 1535
+  pullRequest: 2223
+  issue: 1540
 language:
-  Rust: 3553969
-  Shell: 136914
+  Rust: 3575281
+  Shell: 137838
   TypeScript: 43569
   Python: 21267
   Ruby: 1178
-totalLine: 3756897
+totalBytes: 3779133
 recent:
   last30d:
     since: 2026-08-05
-    release: 40
-    mergedPR: 24
+    release: 44
+    mergedPR: 29
     openPR: 186
     closedIssue: 18
-    openIssue: 152
-    commit: 127
+    openIssue: 157
+    commit: 143
+  last60d:
+    since: 2026-07-06
+    release: 81
+    mergedPR: 78
+    openPR: 409
+    closedIssue: 60
+    openIssue: 345
+    commit: 263
   last90d:
     since: 2026-06-06
     release: 100
-    mergedPR: 112
+    mergedPR: 117
     openPR: 651
     closedIssue: 112
-    openIssue: 486
-    commit: 412
+    openIssue: 491
+    commit: 428
   last180d:
     since: 2026-03-08
     release: 100
-    mergedPR: 405
-    openPR: 1026
+    mergedPR: 410
+    openPR: 1021
     closedIssue: 367
-    openIssue: 1027
-    commit: 951
+    openIssue: 1032
+    commit: 967
   last360d:
     since: 2025-09-09
     release: 100
-    mergedPR: 589
-    openPR: 1040
+    mergedPR: 594
+    openPR: 1035
     closedIssue: 486
-    openIssue: 1049
-    commit: 1224
+    openIssue: 1054
+    commit: 1240
+  last720d:
+    since: 2024-09-14
+    release: 100
+    mergedPR: 594
+    openPR: 1035
+    closedIssue: 486
+    openIssue: 1054
+    commit: 1718
+total:
+  release: 315
+  mergedPR: 594
+  openPR: 1035
+  closedIssue: 486
+  openIssue: 1054
+  commit: 1718
+---
+---
+
