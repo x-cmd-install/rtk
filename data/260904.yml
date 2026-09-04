@@ -7,13 +7,13 @@ about:
   head: 84f629d
   archived: false
   latestVersion: dev-0.48.1-rc.405
-  collectedAt: 2026-09-04T19:49:22Z
+  collectedAt: 2026-09-04T20:50:59Z
 timeline:
   created: 2026-01-22
   lastCommit: 2026-09-04
   lastRelease: 2026-09-04
 popularity:
-  star: 78571
+  star: 78577
   watcher: 212
   fork: 4966
   release: 315
@@ -33,56 +33,124 @@ recent:
     release: 44
     mergedPR: 29
     openPR: 186
-    closedIssue: 18
-    openIssue: 157
+    closedIssue: 19
+    openIssue: 156
     commit: 143
   last60d:
     since: 2026-07-06
     release: 81
     mergedPR: 78
     openPR: 409
-    closedIssue: 60
-    openIssue: 345
+    closedIssue: 61
+    openIssue: 344
     commit: 263
   last90d:
     since: 2026-06-06
     release: 100
     mergedPR: 117
     openPR: 651
-    closedIssue: 112
-    openIssue: 491
+    closedIssue: 113
+    openIssue: 490
     commit: 428
   last180d:
     since: 2026-03-08
     release: 100
     mergedPR: 410
     openPR: 1021
-    closedIssue: 367
-    openIssue: 1032
+    closedIssue: 368
+    openIssue: 1031
     commit: 967
   last360d:
     since: 2025-09-09
     release: 100
     mergedPR: 594
     openPR: 1035
-    closedIssue: 486
-    openIssue: 1054
+    closedIssue: 487
+    openIssue: 1053
     commit: 1240
   last720d:
     since: 2024-09-14
     release: 100
     mergedPR: 594
     openPR: 1035
-    closedIssue: 486
-    openIssue: 1054
+    closedIssue: 487
+    openIssue: 1053
     commit: 1718
 total:
   release: 315
   mergedPR: 594
   openPR: 1035
-  closedIssue: 486
-  openIssue: 1054
+  closedIssue: 487
+  openIssue: 1053
   commit: 1718
 ---
+path: /home/runner/.x-repo/github.com/rtk-ai/rtk
+collectedAt: 2026-09-04T20:51:01Z
+loc:
+  Rust:
+    code: 83904
+    comments: 4055
+    blanks: 10227
+    files: 135
+  Sh:
+    code: 2695
+    comments: 469
+    blanks: 743
+    files: 17
+  Toml:
+    code: 2317
+    comments: 7
+    blanks: 161
+    files: 64
+  Json:
+    code: 1252
+    comments: 0
+    blanks: 0
+    files: 13
+  TypeScript:
+    code: 831
+    comments: 204
+    blanks: 168
+    files: 9
+  Python:
+    code: 468
+    comments: 0
+    blanks: 127
+    files: 4
+  Yaml:
+    code: 248
+    comments: 40
+    blanks: 35
+    files: 2
+  Java:
+    code: 162
+    comments: 0
+    blanks: 53
+    files: 15
+  Xml:
+    code: 125
+    comments: 0
+    blanks: 0
+    files: 7
+  Ruby:
+    code: 32
+    comments: 4
+    blanks: 7
+    files: 1
+  Markdown:
+    code: 0
+    comments: 6999
+    blanks: 3136
+    files: 72
+  Text:
+    code: 0
+    comments: 2276
+    blanks: 212
+    files: 69
+total:
+  code: 93571
+  comments: 18371
+  blanks: 15376
+  files: 408
 ---
 
