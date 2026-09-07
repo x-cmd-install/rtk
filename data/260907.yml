@@ -2,93 +2,93 @@ about:
   description: "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies"
   license: Apache-2.0
   homepage: https://www.rtk-ai.app
-  head: 5e10aa6
+  head: d9a6dba
   archived: false
-  latestVersion: "dev-0.49.0-rc.408"
-  collectedAt: 2026-09-07T04:53:13Z
+  latestVersion: "dev-0.49.0-rc.409"
+  collectedAt: 2026-09-07T19:35:07Z
 timeline:
   created: 2026-01-22
-  lastCommit: 2026-09-06
+  lastCommit: 2026-09-07
   lastRelease: 2026-09-07
 popularity:
-  star: 79138
-  watcher: 214
-  fork: 5010
-  release: 318
+  star: 79280
+  watcher: 215
+  fork: 5013
+  release: 319
   contributor: 143
-  pullRequest: 2247
-  issue: 1551
+  pullRequest: 2256
+  issue: 1554
 language:
-  Rust: 3662108
+  Rust: 3675295
   Shell: 137838
   TypeScript: 45003
   Python: 21267
   Ruby: 1178
-totalBytes: 3867394
+totalBytes: 3880581
 recent:
   last30d:
     since: 2026-08-08
-    release: 45
+    release: 46
     mergedPR: 28
-    openPR: 179
+    openPR: 186
     closedIssue: 33
-    openIssue: 138
-    commit: 151
+    openIssue: 141
+    commit: 158
   last60d:
     since: 2026-07-09
-    release: 78
-    mergedPR: 76
-    openPR: 370
+    release: 79
+    mergedPR: 77
+    openPR: 375
     closedIssue: 97
-    openIssue: 297
-    commit: 270
+    openIssue: 300
+    commit: 278
   last90d:
     since: 2026-06-09
     release: 100
-    mergedPR: 117
-    openPR: 583
+    mergedPR: 118
+    openPR: 588
     closedIssue: 171
-    openIssue: 420
-    commit: 425
+    openIssue: 423
+    commit: 433
   last180d:
     since: 2026-03-11
     release: 100
-    mergedPR: 385
-    openPR: 911
+    mergedPR: 386
+    openPR: 915
     closedIssue: 494
-    openIssue: 873
-    commit: 914
+    openIssue: 876
+    commit: 922
   last360d:
     since: 2025-09-12
     release: 100
-    mergedPR: 597
-    openPR: 922
+    mergedPR: 598
+    openPR: 926
     closedIssue: 646
-    openIssue: 905
-    commit: 1256
+    openIssue: 908
+    commit: 1264
   last720d:
     since: 2024-09-17
     release: 100
-    mergedPR: 597
-    openPR: 922
+    mergedPR: 598
+    openPR: 926
     closedIssue: 646
-    openIssue: 905
-    commit: 1738
+    openIssue: 908
+    commit: 1748
 total:
-  release: 318
-  mergedPR: 597
-  openPR: 922
+  release: 319
+  mergedPR: 598
+  openPR: 926
   closedIssue: 646
-  openIssue: 905
-  commit: 1738
+  openIssue: 908
+  commit: 1748
 ---
 path: /home/runner/.x-repo/github.com/rtk-ai/rtk
-collectedAt: 2026-09-07T04:53:28Z
+collectedAt: 2026-09-07T19:35:10Z
 loc:
   Rust:
-    code: 86311
-    comments: 4084
-    blanks: 10407
+    code: 86680
+    comments: 4087
+    blanks: 10432
     files: 136
   Sh:
     code: 2695
@@ -137,24 +137,24 @@ loc:
     files: 1
   Markdown:
     code: 0
-    comments: 7024
-    blanks: 3151
-    files: 72
+    comments: 7365
+    blanks: 3239
+    files: 71
   Text:
     code: 0
     comments: 2276
     blanks: 212
     files: 69
 total:
-  code: 96014
-  comments: 18448
-  blanks: 15578
-  files: 409
+  code: 96359
+  comments: 18840
+  blanks: 15706
+  files: 408
 ---
 
 ---
 eget:
-  collectedAt: 2026-09-07T04:53:50+00:00
+  collectedAt: 2026-09-07T19:35:10+00:00
   platform:
     darwin/arm64:
       name:  rtk-aarch64-apple-darwin.tar.gz
