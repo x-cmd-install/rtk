@@ -7,7 +7,7 @@ CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. S
 - **Latest release**: `dev-0.49.0-rc.418` (2026-09-04)
 - **Last commit**: 2026-09-09
 - **License**: Apache-2.0
-- **Stars**: 79560 · **Forks**: 5032 · **Open issues**: 1581 · **Contributors**: 145
+- **Stars**: 79687 · **Forks**: 5039 · **Open issues**: 1584 · **Contributors**: 145
 
 ## Installation
 
@@ -21,4 +21,4 @@ See <https://x-cmd.com/install/rtk> for details.
 
 This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260909.yml`. Merged card+release view: `data/latest.report.yml`.
 
-_Last regenerated: 2026-09-09T05:03:17Z._
+_Last regenerated: 2026-09-09T19:18:22Z._
