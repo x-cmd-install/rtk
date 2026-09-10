@@ -12,7 +12,7 @@ CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. S
 x install rtk
 ```
 
-## 代码规模
+## 代码洞察
 
 合计: **104,372** 行代码（覆盖前 5 种语言、共 **246** 个文件）。
 
@@ -38,7 +38,7 @@ x install rtk
 
 ## 流行度
 
-- **Star**: 79,832 · **Fork**: 5,051 · **开放 issue**: 1,589 · **贡献者**: 145
+- **Star**: 79,841 · **Fork**: 5,053 · **开放 issue**: 1,589 · **贡献者**: 145
 
 ## 累计统计
 
@@ -89,4 +89,4 @@ rtk 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索�
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T20:50:49Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T22:57:15Z._
