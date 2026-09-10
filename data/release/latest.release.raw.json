@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 838,
       "digest": "sha256:5dfd96e853c11e8becf0e11be2535676f497a5949266824e331ddafecb406265",
-      "download_count": 40802,
+      "download_count": 42003,
       "created_at": "2026-09-04T14:42:05Z",
       "updated_at": "2026-09-04T14:42:05Z",
       "browser_download_url": "https://github.com/rtk-ai/rtk/releases/download/v0.48.0/checksums.txt"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 3798602,
       "digest": "sha256:cccddd1b7a0abd6fbd9cd2e5fbb35911c57dd494ff0ed5b9ffbd8646967b31a7",
-      "download_count": 85,
+      "download_count": 87,
       "created_at": "2026-09-04T14:42:05Z",
       "updated_at": "2026-09-04T14:42:05Z",
       "browser_download_url": "https://github.com/rtk-ai/rtk/releases/download/v0.48.0/rtk-0.48.0-1.x86_64.rpm"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 3908209,
       "digest": "sha256:4fa025cc93a744b6963f4e53a008e5ba3f74b6a38061f4a47c639e1c3023e0db",
-      "download_count": 20370,
+      "download_count": 20924,
       "created_at": "2026-09-04T14:42:05Z",
       "updated_at": "2026-09-04T14:42:05Z",
       "browser_download_url": "https://github.com/rtk-ai/rtk/releases/download/v0.48.0/rtk-aarch64-apple-darwin.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 4237519,
       "digest": "sha256:5ed65486a96077bd6bba7c87fdc9d0e4a1918d19619be3c87380888389a30c7c",
-      "download_count": 2610,
+      "download_count": 2721,
       "created_at": "2026-09-04T14:42:05Z",
       "updated_at": "2026-09-04T14:42:05Z",
       "browser_download_url": "https://github.com/rtk-ai/rtk/releases/download/v0.48.0/rtk-aarch64-unknown-linux-gnu.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 4276421,
       "digest": "sha256:a95f2c23e08572dcc84ddff5fbe432e41e7f94369622eb086cca49ae0b6f61e8",
-      "download_count": 561,
+      "download_count": 583,
       "created_at": "2026-09-04T14:42:05Z",
       "updated_at": "2026-09-04T14:42:05Z",
       "browser_download_url": "https://github.com/rtk-ai/rtk/releases/download/v0.48.0/rtk-x86_64-apple-darwin.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 4275631,
       "digest": "sha256:8c9ae56bacde865112777a9fe9791b449186d8b2a081c32c0772ef773f284f93",
-      "download_count": 9458,
+      "download_count": 9753,
       "created_at": "2026-09-04T14:42:05Z",
       "updated_at": "2026-09-04T14:42:05Z",
       "browser_download_url": "https://github.com/rtk-ai/rtk/releases/download/v0.48.0/rtk-x86_64-pc-windows-msvc.zip"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 4616651,
       "digest": "sha256:e4e650fa1677c0de2f6839a6040d7b17f312d32f163c402b75af70e9e5af1a91",
-      "download_count": 41710,
+      "download_count": 43094,
       "created_at": "2026-09-04T14:42:05Z",
       "updated_at": "2026-09-04T14:42:06Z",
       "browser_download_url": "https://github.com/rtk-ai/rtk/releases/download/v0.48.0/rtk-x86_64-unknown-linux-musl.tar.gz"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 3798602,
       "digest": "sha256:cccddd1b7a0abd6fbd9cd2e5fbb35911c57dd494ff0ed5b9ffbd8646967b31a7",
-      "download_count": 100,
+      "download_count": 113,
       "created_at": "2026-09-04T14:42:05Z",
       "updated_at": "2026-09-04T14:42:05Z",
       "browser_download_url": "https://github.com/rtk-ai/rtk/releases/download/v0.48.0/rtk.x86_64.rpm"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 3484228,
       "digest": "sha256:ed1b281790fe136482e7eec323ea85db5fe01f38cd71ba82fe6cd7c260a7c869",
-      "download_count": 248,
+      "download_count": 283,
       "created_at": "2026-09-04T14:42:05Z",
       "updated_at": "2026-09-04T14:42:05Z",
       "browser_download_url": "https://github.com/rtk-ai/rtk/releases/download/v0.48.0/rtk_0.48.0-1_amd64.deb"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 3484228,
       "digest": "sha256:ed1b281790fe136482e7eec323ea85db5fe01f38cd71ba82fe6cd7c260a7c869",
-      "download_count": 466,
+      "download_count": 477,
       "created_at": "2026-09-04T14:42:05Z",
       "updated_at": "2026-09-04T14:42:05Z",
       "browser_download_url": "https://github.com/rtk-ai/rtk/releases/download/v0.48.0/rtk_amd64.deb"
