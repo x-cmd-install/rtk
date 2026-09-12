@@ -14,11 +14,11 @@ x install rtk
 
 ## Code insight
 
-Total: **104,372** lines of code across **246** files in the top 5 languages.
+Total: **105,866** lines of code across **249** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 96,204 | 4,708 | 10,873 | 141 |
+| Rust | 97,698 | 5,026 | 11,048 | 144 |
 | Sh | 2,699 | 469 | 743 | 17 |
 | Toml | 2,318 | 7 | 161 | 64 |
 | Json | 1,254 | 0 | 0 | 15 |
@@ -32,51 +32,51 @@ Total: **104,372** lines of code across **246** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `dev-0.49.0-rc.420` (2026-09-04)
-- **Last commit**: 2026-09-10
+- **Latest**: `dev-0.50.0-rc.427` (2026-09-11)
+- **Last commit**: 2026-09-11
 - **Assets in release**: 10
 
 ## Popularity
 
-- **Stars**: 79,870 · **Forks**: 5,054 · **Open issues**: 1,589 · **Contributors**: 145
+- **Stars**: 80,018 · **Forks**: 5,065 · **Open issues**: 1,594 · **Contributors**: 146
 
 ## Totals (cumulative)
 
-- **Releases**: 328 · **Merged PRs**: 608 · **Open PRs**: 930 · **Closed issues**: 656 · **Open issues**: 933 · **Commits**: 1856
+- **Releases**: 333 · **Merged PRs**: 615 · **Open PRs**: 930 · **Closed issues**: 658 · **Open issues**: 936 · **Commits**: 1891
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-12 | 55 | 28 | 179 | 36 | 144 | 221 |
-| last60d | 2026-07-13 | 86 | 81 | 364 | 92 | 314 | 348 |
-| 90d | 2026-06-13 | 100 | 121 | 578 | 169 | 423 | 506 |
-| last180d | 2026-03-15 | 100 | 373 | 918 | 479 | 890 | 996 |
-| 360d | 2025-09-16 | 100 | 608 | 930 | 656 | 933 | 1339 |
-| last720d | 2024-09-21 | 100 | 608 | 930 | 656 | 933 | 1856 |
+| 30d | 2026-08-13 | 59 | 32 | 179 | 37 | 145 | 245 |
+| last60d | 2026-07-14 | 91 | 86 | 358 | 92 | 313 | 373 |
+| 90d | 2026-06-14 | 100 | 127 | 573 | 168 | 421 | 531 |
+| last180d | 2026-03-16 | 100 | 370 | 916 | 474 | 887 | 1024 |
+| 360d | 2025-09-17 | 100 | 615 | 930 | 658 | 936 | 1367 |
+| last720d | 2024-09-22 | 100 | 615 | 930 | 658 | 936 | 1891 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [checksums.txt](https://github.com/rtk-ai/rtk/releases/download/v0.48.0/checksums.txt) | 838 B | `other` |
-| [rtk-0.48.0-1.x86_64.rpm](https://github.com/rtk-ai/rtk/releases/download/v0.48.0/rtk-0.48.0-1.x86_64.rpm) | 3.6 MiB | `runtime/rpm/x86_64` |
-| [rtk-aarch64-apple-darwin.tar.gz](https://github.com/rtk-ai/rtk/releases/download/v0.48.0/rtk-aarch64-apple-darwin.tar.gz) | 3.7 MiB | `native/darwin/arm64` |
-| [rtk-aarch64-unknown-linux-gnu.tar.gz](https://github.com/rtk-ai/rtk/releases/download/v0.48.0/rtk-aarch64-unknown-linux-gnu.tar.gz) | 4.0 MiB | `native/linux/arm64/glibc` |
-| [rtk-x86_64-apple-darwin.tar.gz](https://github.com/rtk-ai/rtk/releases/download/v0.48.0/rtk-x86_64-apple-darwin.tar.gz) | 4.1 MiB | `native/darwin/x64` |
-| [rtk-x86_64-pc-windows-msvc.zip](https://github.com/rtk-ai/rtk/releases/download/v0.48.0/rtk-x86_64-pc-windows-msvc.zip) | 4.1 MiB | `native/win/x64` |
-| [rtk-x86_64-unknown-linux-musl.tar.gz](https://github.com/rtk-ai/rtk/releases/download/v0.48.0/rtk-x86_64-unknown-linux-musl.tar.gz) | 4.4 MiB | `native/linux/x64/musl` |
-| [rtk.x86_64.rpm](https://github.com/rtk-ai/rtk/releases/download/v0.48.0/rtk.x86_64.rpm) | 3.6 MiB | `runtime/rpm/x86_64` |
-| [rtk_0.48.0-1_amd64.deb](https://github.com/rtk-ai/rtk/releases/download/v0.48.0/rtk_0.48.0-1_amd64.deb) | 3.3 MiB | `runtime/deb/amd64` |
-| [rtk_amd64.deb](https://github.com/rtk-ai/rtk/releases/download/v0.48.0/rtk_amd64.deb) | 3.3 MiB | `runtime/deb/amd64` |
+| [checksums.txt](https://github.com/rtk-ai/rtk/releases/download/v0.49.0/checksums.txt) | 838 B | `other` |
+| [rtk-0.49.0-1.x86_64.rpm](https://github.com/rtk-ai/rtk/releases/download/v0.49.0/rtk-0.49.0-1.x86_64.rpm) | 3.8 MiB | `runtime/rpm/x86_64` |
+| [rtk-aarch64-apple-darwin.tar.gz](https://github.com/rtk-ai/rtk/releases/download/v0.49.0/rtk-aarch64-apple-darwin.tar.gz) | 3.9 MiB | `native/darwin/arm64` |
+| [rtk-aarch64-unknown-linux-gnu.tar.gz](https://github.com/rtk-ai/rtk/releases/download/v0.49.0/rtk-aarch64-unknown-linux-gnu.tar.gz) | 4.2 MiB | `native/linux/arm64/glibc` |
+| [rtk-x86_64-apple-darwin.tar.gz](https://github.com/rtk-ai/rtk/releases/download/v0.49.0/rtk-x86_64-apple-darwin.tar.gz) | 4.2 MiB | `native/darwin/x64` |
+| [rtk-x86_64-pc-windows-msvc.zip](https://github.com/rtk-ai/rtk/releases/download/v0.49.0/rtk-x86_64-pc-windows-msvc.zip) | 4.2 MiB | `native/win/x64` |
+| [rtk-x86_64-unknown-linux-musl.tar.gz](https://github.com/rtk-ai/rtk/releases/download/v0.49.0/rtk-x86_64-unknown-linux-musl.tar.gz) | 4.6 MiB | `native/linux/x64/musl` |
+| [rtk.x86_64.rpm](https://github.com/rtk-ai/rtk/releases/download/v0.49.0/rtk.x86_64.rpm) | 3.8 MiB | `runtime/rpm/x86_64` |
+| [rtk_0.49.0-1_amd64.deb](https://github.com/rtk-ai/rtk/releases/download/v0.49.0/rtk_0.49.0-1_amd64.deb) | 3.4 MiB | `runtime/deb/amd64` |
+| [rtk_amd64.deb](https://github.com/rtk-ai/rtk/releases/download/v0.49.0/rtk_amd64.deb) | 3.4 MiB | `runtime/deb/amd64` |
 
 ## Distribution status
 
-Reported by **12** distros on [repology.org](https://repology.org/project/rtk). **5** are ✅ on the latest upstream release, **5** are ⚠️ on an older version.
+Reported by **12** distros on [repology.org](https://repology.org/project/rtk). **4** are ✅ on the latest upstream release, **6** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
-| Homebrew | `0.48.0` | ✅ latest |
+| Homebrew | `0.49.0` | ✅ latest |
 | Nix unstable | `0.47.0` | ⚠️ outdated |
 | openSUSE Tumbleweed | `0.47.0` | ⚠️ outdated |
 
@@ -89,4 +89,4 @@ Install metadata for rtk lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260911.yml` · 2026-09-11T05:09:09Z._
+_Snapshot: `data/card/260912.yml` · 2026-09-12T04:53:40Z._
