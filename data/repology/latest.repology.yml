@@ -128,9 +128,9 @@
 - repo: t2
   srcname: rtk
   visiblename: rtk
-  version: 0.48.0
+  version: 0.49.0
   origversion: null
-  status: outdated
+  status: newest
   summary: CLI proxy that reduces LLM token consumption
   maintainers:
     - t2@t2-project.org
