@@ -4,7 +4,7 @@
 
 CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
 
-[![x-cmd/install — rtk Code Quality Monitoring Repo Card](https://repo.x-cmd.io/rtk.svg?lang=zh)](https://x-cmd.com/install/rtk)
+[![x-cmd/install — rtk Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/rtk.svg?lang=zh)](https://x-cmd.com/install/rtk)
 
 ## 安装
 
@@ -38,22 +38,22 @@ x install rtk
 
 ## 流行度
 
-- **Star**: 81,344 · **Fork**: 5,153 · **开放 issue**: 1,667 · **贡献者**: 153
+- **Star**: 81,470 · **Fork**: 5,158 · **开放 issue**: 1,674 · **贡献者**: 153
 
 ## 累计统计
 
-- **发布数**: 352 · **已合并 PR**: 639 · **开放 PR**: 715 · **已关闭 issue**: 828 · **开放 issue**: 839 · **提交数**: 2076
+- **发布数**: 352 · **已合并 PR**: 639 · **开放 PR**: 718 · **已关闭 issue**: 829 · **开放 issue**: 845 · **提交数**: 2076
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 71 | 41 | 208 | 46 | 165 | 232 |
-| last60d | 2026-07-24 | 99 | 82 | 355 | 111 | 300 | 420 |
-| 90d | 2026-06-24 | 100 | 133 | 535 | 221 | 404 | 612 |
-| last180d | 2026-03-26 | 100 | 341 | 705 | 584 | 761 | 1057 |
-| 360d | 2025-09-27 | 100 | 639 | 715 | 828 | 839 | 1519 |
-| last720d | 2024-10-02 | 100 | 639 | 715 | 828 | 839 | 2076 |
+| 30d | 2026-08-24 | 71 | 40 | 207 | 44 | 165 | 232 |
+| last60d | 2026-07-25 | 97 | 80 | 355 | 109 | 305 | 420 |
+| 90d | 2026-06-25 | 100 | 131 | 530 | 217 | 406 | 612 |
+| last180d | 2026-03-27 | 100 | 338 | 708 | 579 | 767 | 1057 |
+| 360d | 2025-09-28 | 100 | 639 | 718 | 829 | 845 | 1519 |
+| last720d | 2024-10-03 | 100 | 639 | 718 | 829 | 845 | 2076 |
 
 ## Release 资产
 
@@ -79,4 +79,4 @@ rtk 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索�
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260922.yml` · 2026-09-22T05:21:29Z._
+_数据快照: `data/card/260923.yml` · 2026-09-23T05:21:24Z._

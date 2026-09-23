@@ -4,7 +4,7 @@
 
 CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
 
-[![x-cmd/install — rtk Code Quality Monitoring Repo Card](https://repo.x-cmd.io/rtk.svg)](https://x-cmd.com/install/rtk)
+[![x-cmd/install — rtk Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/rtk.svg)](https://x-cmd.com/install/rtk)
 
 ## Install
 
@@ -38,22 +38,22 @@ Total: **119,901** lines of code across **262** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 81,344 · **Forks**: 5,153 · **Open issues**: 1,667 · **Contributors**: 153
+- **Stars**: 81,470 · **Forks**: 5,158 · **Open issues**: 1,674 · **Contributors**: 153
 
 ## Totals (cumulative)
 
-- **Releases**: 352 · **Merged PRs**: 639 · **Open PRs**: 715 · **Closed issues**: 828 · **Open issues**: 839 · **Commits**: 2076
+- **Releases**: 352 · **Merged PRs**: 639 · **Open PRs**: 718 · **Closed issues**: 829 · **Open issues**: 845 · **Commits**: 2076
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 71 | 41 | 208 | 46 | 165 | 232 |
-| last60d | 2026-07-24 | 99 | 82 | 355 | 111 | 300 | 420 |
-| 90d | 2026-06-24 | 100 | 133 | 535 | 221 | 404 | 612 |
-| last180d | 2026-03-26 | 100 | 341 | 705 | 584 | 761 | 1057 |
-| 360d | 2025-09-27 | 100 | 639 | 715 | 828 | 839 | 1519 |
-| last720d | 2024-10-02 | 100 | 639 | 715 | 828 | 839 | 2076 |
+| 30d | 2026-08-24 | 71 | 40 | 207 | 44 | 165 | 232 |
+| last60d | 2026-07-25 | 97 | 80 | 355 | 109 | 305 | 420 |
+| 90d | 2026-06-25 | 100 | 131 | 530 | 217 | 406 | 612 |
+| last180d | 2026-03-27 | 100 | 338 | 708 | 579 | 767 | 1057 |
+| 360d | 2025-09-28 | 100 | 639 | 718 | 829 | 845 | 1519 |
+| last720d | 2024-10-03 | 100 | 639 | 718 | 829 | 845 | 2076 |
 
 ## Release assets
 
@@ -79,4 +79,4 @@ Install metadata for rtk lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T05:21:29Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T05:21:24Z._
