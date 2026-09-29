@@ -32,28 +32,28 @@ Total: **123,522** lines of code across **281** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `dev-0.51.0-rc.473` (2026-09-24)
+- **Latest**: `dev-0.51.0-rc.478` (2026-09-24)
 - **Last commit**: 2026-09-28
 - **Assets in release**: 10
 
 ## Popularity
 
-- **Stars**: 81,838 · **Forks**: 5,190 · **Open issues**: 1,739 · **Contributors**: 167
+- **Stars**: 81,947 · **Forks**: 5,201 · **Open issues**: 1,740 · **Contributors**: 167
 
 ## Totals (cumulative)
 
-- **Releases**: 371 · **Merged PRs**: 662 · **Open PRs**: 701 · **Closed issues**: 889 · **Open issues**: 850 · **Commits**: 2160
+- **Releases**: 372 · **Merged PRs**: 667 · **Open PRs**: 684 · **Closed issues**: 890 · **Open issues**: 850 · **Commits**: 2170
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-29 | 85 | 45 | 224 | 68 | 175 | 154 |
-| last60d | 2026-07-30 | 100 | 77 | 346 | 129 | 310 | 445 |
-| 90d | 2026-06-30 | 100 | 141 | 495 | 234 | 412 | 591 |
-| last180d | 2026-04-01 | 100 | 343 | 688 | 620 | 760 | 1053 |
-| 360d | 2025-10-03 | 100 | 662 | 701 | 889 | 850 | 1577 |
-| last720d | 2024-10-08 | 100 | 662 | 701 | 889 | 850 | 2160 |
+| 30d | 2026-08-30 | 85 | 47 | 218 | 67 | 171 | 159 |
+| last60d | 2026-07-31 | 100 | 81 | 344 | 127 | 307 | 450 |
+| 90d | 2026-07-01 | 100 | 142 | 487 | 231 | 409 | 596 |
+| last180d | 2026-04-02 | 100 | 341 | 671 | 619 | 759 | 1058 |
+| 360d | 2025-10-04 | 100 | 667 | 684 | 890 | 850 | 1582 |
+| last720d | 2024-10-09 | 100 | 667 | 684 | 890 | 850 | 2170 |
 
 ## Release assets
 
@@ -79,4 +79,4 @@ Install metadata for rtk lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260928.yml` · 2026-09-28T05:44:47Z._
+_Snapshot: `data/card/260929.yml` · 2026-09-29T06:02:19Z._
