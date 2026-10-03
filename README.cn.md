@@ -14,11 +14,11 @@ x install rtk
 
 ## 代码洞察
 
-合计: **124,336** 行代码（覆盖前 5 种语言、共 **286** 个文件）。
+合计: **125,095** 行代码（覆盖前 5 种语言、共 **287** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Rust | 112,484 | 5,989 | 12,546 | 180 |
+| Rust | 113,243 | 6,059 | 12,605 | 181 |
 | Json | 4,928 | 0 | 0 | 16 |
 | Sh | 2,735 | 484 | 744 | 17 |
 | Toml | 2,289 | 14 | 159 | 64 |
@@ -32,43 +32,43 @@ x install rtk
 
 ## 发布
 
-- **最新版本**: `dev-0.51.0-rc.483` (2026-09-24)
-- **最近提交**: 2026-10-01
+- **最新版本**: `dev-0.51.1-rc.497` (2026-10-02)
+- **最近提交**: 2026-10-03
 - **Release 含资产**: 10 个
 
 ## 流行度
 
-- **Star**: 82,190 · **Fork**: 5,214 · **开放 issue**: 1,756 · **贡献者**: 167
+- **Star**: 82,262 · **Fork**: 5,223 · **开放 issue**: 1,764 · **贡献者**: 168
 
 ## 累计统计
 
-- **发布数**: 377 · **已合并 PR**: 672 · **开放 PR**: 704 · **已关闭 issue**: 893 · **开放 issue**: 863 · **提交数**: 2182
+- **发布数**: 384 · **已合并 PR**: 686 · **开放 PR**: 713 · **已关闭 issue**: 898 · **开放 issue**: 866 · **提交数**: 2212
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-02 | 73 | 35 | 222 | 58 | 172 | 164 |
-| last60d | 2026-08-03 | 100 | 81 | 351 | 127 | 314 | 457 |
-| 90d | 2026-07-04 | 100 | 143 | 497 | 224 | 412 | 603 |
-| last180d | 2026-04-05 | 100 | 331 | 691 | 612 | 762 | 1065 |
-| 360d | 2025-10-07 | 100 | 672 | 704 | 893 | 863 | 1589 |
-| last720d | 2024-10-12 | 100 | 672 | 704 | 893 | 863 | 2182 |
+| 30d | 2026-09-03 | 76 | 39 | 233 | 59 | 171 | 181 |
+| last60d | 2026-08-04 | 100 | 93 | 354 | 126 | 280 | 475 |
+| 90d | 2026-07-05 | 100 | 156 | 503 | 226 | 411 | 621 |
+| last180d | 2026-04-06 | 100 | 340 | 700 | 616 | 762 | 1083 |
+| 360d | 2025-10-08 | 100 | 686 | 713 | 898 | 866 | 1607 |
+| last720d | 2024-10-13 | 100 | 686 | 713 | 898 | 866 | 2212 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [checksums.txt](https://github.com/rtk-ai/rtk/releases/download/v0.50.0/checksums.txt) | 838 B | `other` |
-| [rtk-0.50.0-1.x86_64.rpm](https://github.com/rtk-ai/rtk/releases/download/v0.50.0/rtk-0.50.0-1.x86_64.rpm) | 3.8 MiB | `runtime/rpm/x86_64` |
-| [rtk-aarch64-apple-darwin.tar.gz](https://github.com/rtk-ai/rtk/releases/download/v0.50.0/rtk-aarch64-apple-darwin.tar.gz) | 3.9 MiB | `native/darwin/arm64` |
-| [rtk-aarch64-unknown-linux-gnu.tar.gz](https://github.com/rtk-ai/rtk/releases/download/v0.50.0/rtk-aarch64-unknown-linux-gnu.tar.gz) | 4.3 MiB | `native/linux/arm64/glibc` |
-| [rtk-x86_64-apple-darwin.tar.gz](https://github.com/rtk-ai/rtk/releases/download/v0.50.0/rtk-x86_64-apple-darwin.tar.gz) | 4.3 MiB | `native/darwin/x64` |
-| [rtk-x86_64-pc-windows-msvc.zip](https://github.com/rtk-ai/rtk/releases/download/v0.50.0/rtk-x86_64-pc-windows-msvc.zip) | 4.3 MiB | `native/win/x64` |
-| [rtk-x86_64-unknown-linux-musl.tar.gz](https://github.com/rtk-ai/rtk/releases/download/v0.50.0/rtk-x86_64-unknown-linux-musl.tar.gz) | 4.6 MiB | `native/linux/x64/musl` |
-| [rtk.x86_64.rpm](https://github.com/rtk-ai/rtk/releases/download/v0.50.0/rtk.x86_64.rpm) | 3.8 MiB | `runtime/rpm/x86_64` |
-| [rtk_0.50.0-1_amd64.deb](https://github.com/rtk-ai/rtk/releases/download/v0.50.0/rtk_0.50.0-1_amd64.deb) | 3.5 MiB | `runtime/deb/amd64` |
-| [rtk_amd64.deb](https://github.com/rtk-ai/rtk/releases/download/v0.50.0/rtk_amd64.deb) | 3.5 MiB | `runtime/deb/amd64` |
+| [checksums.txt](https://github.com/rtk-ai/rtk/releases/download/v0.51.0/checksums.txt) | 838 B | `other` |
+| [rtk-0.51.0-1.x86_64.rpm](https://github.com/rtk-ai/rtk/releases/download/v0.51.0/rtk-0.51.0-1.x86_64.rpm) | 3.8 MiB | `runtime/rpm/x86_64` |
+| [rtk-aarch64-apple-darwin.tar.gz](https://github.com/rtk-ai/rtk/releases/download/v0.51.0/rtk-aarch64-apple-darwin.tar.gz) | 4.0 MiB | `native/darwin/arm64` |
+| [rtk-aarch64-unknown-linux-gnu.tar.gz](https://github.com/rtk-ai/rtk/releases/download/v0.51.0/rtk-aarch64-unknown-linux-gnu.tar.gz) | 4.3 MiB | `native/linux/arm64/glibc` |
+| [rtk-x86_64-apple-darwin.tar.gz](https://github.com/rtk-ai/rtk/releases/download/v0.51.0/rtk-x86_64-apple-darwin.tar.gz) | 4.4 MiB | `native/darwin/x64` |
+| [rtk-x86_64-pc-windows-msvc.zip](https://github.com/rtk-ai/rtk/releases/download/v0.51.0/rtk-x86_64-pc-windows-msvc.zip) | 4.4 MiB | `native/win/x64` |
+| [rtk-x86_64-unknown-linux-musl.tar.gz](https://github.com/rtk-ai/rtk/releases/download/v0.51.0/rtk-x86_64-unknown-linux-musl.tar.gz) | 4.7 MiB | `native/linux/x64/musl` |
+| [rtk.x86_64.rpm](https://github.com/rtk-ai/rtk/releases/download/v0.51.0/rtk.x86_64.rpm) | 3.8 MiB | `runtime/rpm/x86_64` |
+| [rtk_0.51.0-1_amd64.deb](https://github.com/rtk-ai/rtk/releases/download/v0.51.0/rtk_0.51.0-1_amd64.deb) | 3.5 MiB | `runtime/deb/amd64` |
+| [rtk_amd64.deb](https://github.com/rtk-ai/rtk/releases/download/v0.51.0/rtk_amd64.deb) | 3.5 MiB | `runtime/deb/amd64` |
 
 ## 改进这些数据
 
@@ -79,4 +79,4 @@ rtk 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索�
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261002.yml` · 2026-10-02T05:51:52Z._
+_数据快照: `data/card/261003.yml` · 2026-10-03T05:34:06Z._
