@@ -1,0 +1,170 @@
+about:
+  description: "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies"
+  license: Apache-2.0
+  homepage: https://www.rtk-ai.app
+  head: 5eb0509
+  archived: false
+  latestVersion: "dev-1.0.2-rc.548"
+  latestRelease: "v1.0.1"
+  latestPrerelease: "dev-1.0.2-rc.548"
+  collectedAt: 2026-10-15T04:50:15Z
+timeline:
+  created: 2026-01-22
+  lastCommit: 2026-10-14
+  lastVersion: 2026-10-15
+  lastRelease: 2026-10-14
+  lastPrerelease: 2026-10-15
+popularity:
+  star: 83395
+  watcher: 215
+  fork: 5296
+  release: 420
+  contributor: 176
+  pullRequest: 2637
+  issue: 1822
+language:
+  Rust: 7098177
+  Shell: 141316
+  TypeScript: 55098
+  Python: 21267
+  JavaScript: 10463
+  Ruby: 1200
+totalBytes: 7327521
+recent:
+  last30d:
+    since: 2026-09-15
+    release: 75
+    mergedPR: 61
+    openPR: 201
+    closedIssue: 43
+    openIssue: 151
+    commit: 172
+  last60d:
+    since: 2026-08-16
+    release: 100
+    mergedPR: 132
+    openPR: 336
+    closedIssue: 131
+    openIssue: 275
+    commit: 559
+  last90d:
+    since: 2026-07-17
+    release: 100
+    mergedPR: 192
+    openPR: 474
+    closedIssue: 215
+    openIssue: 405
+    commit: 708
+  last180d:
+    since: 2026-04-18
+    release: 100
+    mergedPR: 350
+    openPR: 629
+    closedIssue: 599
+    openIssue: 691
+    commit: 1112
+  last360d:
+    since: 2025-10-20
+    release: 100
+    mergedPR: 736
+    openPR: 658
+    closedIssue: 960
+    openIssue: 862
+    commit: 1731
+  last720d:
+    since: 2024-10-25
+    release: 100
+    mergedPR: 736
+    openPR: 658
+    closedIssue: 960
+    openIssue: 862
+    commit: 2392
+total:
+  release: 420
+  mergedPR: 736
+  openPR: 658
+  closedIssue: 960
+  openIssue: 862
+  commit: 2392
+---
+path: /home/runner/.x-repo/github.com/rtk-ai/rtk
+collectedAt: 2026-10-15T04:50:20Z
+loc:
+  Rust:
+    code: 161709
+    comments: 7359
+    blanks: 16328
+    files: 297
+  Json:
+    code: 5620
+    comments: 0
+    blanks: 0
+    files: 42
+  Toml:
+    code: 2763
+    comments: 362
+    blanks: 281
+    files: 83
+  Sh:
+    code: 2740
+    comments: 488
+    blanks: 744
+    files: 17
+  TypeScript:
+    code: 955
+    comments: 337
+    blanks: 193
+    files: 9
+  Python:
+    code: 468
+    comments: 0
+    blanks: 127
+    files: 4
+  Yaml:
+    code: 248
+    comments: 40
+    blanks: 35
+    files: 2
+  JavaScript:
+    code: 234
+    comments: 27
+    blanks: 26
+    files: 1
+  Java:
+    code: 162
+    comments: 0
+    blanks: 53
+    files: 15
+  Xml:
+    code: 125
+    comments: 0
+    blanks: 0
+    files: 7
+  Ruby:
+    code: 32
+    comments: 4
+    blanks: 7
+    files: 1
+  Html:
+    code: 4
+    comments: 0
+    blanks: 0
+    files: 2
+  Markdown:
+    code: 0
+    comments: 9075
+    blanks: 3898
+    files: 91
+  Text:
+    code: 0
+    comments: 5105
+    blanks: 362
+    files: 153
+total:
+  code: 176789
+  comments: 33050
+  blanks: 22927
+  files: 724
+---
+
+---
