@@ -38,22 +38,22 @@ Total: **178,711** lines of code across **455** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 84,218 · **Forks**: 5,359 · **Open issues**: 1,887 · **Contributors**: 189
+- **Stars**: 84,328 · **Forks**: 5,356 · **Open issues**: 1,888 · **Contributors**: 189
 
 ## Totals (cumulative)
 
-- **Releases**: 434 · **Merged PRs**: 756 · **Open PRs**: 699 · **Closed issues**: 993 · **Open issues**: 894 · **Commits**: 2475
+- **Releases**: 434 · **Merged PRs**: 756 · **Open PRs**: 701 · **Closed issues**: 993 · **Open issues**: 895 · **Commits**: 2475
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 82 | 55 | 221 | 38 | 178 | 172 |
-| last60d | 2026-08-23 | 100 | 145 | 360 | 129 | 304 | 497 |
-| 90d | 2026-07-24 | 100 | 190 | 483 | 208 | 423 | 686 |
-| last180d | 2026-04-25 | 100 | 349 | 661 | 584 | 701 | 1130 |
-| 360d | 2025-10-27 | 100 | 756 | 699 | 993 | 894 | 1780 |
-| last720d | 2024-11-01 | 100 | 756 | 699 | 993 | 894 | 2475 |
+| 30d | 2026-09-23 | 82 | 55 | 223 | 37 | 170 | 172 |
+| last60d | 2026-08-24 | 100 | 144 | 357 | 126 | 299 | 497 |
+| 90d | 2026-07-25 | 100 | 188 | 482 | 205 | 423 | 686 |
+| last180d | 2026-04-26 | 100 | 349 | 661 | 579 | 701 | 1130 |
+| 360d | 2025-10-28 | 100 | 756 | 701 | 993 | 895 | 1780 |
+| last720d | 2024-11-02 | 100 | 756 | 701 | 993 | 895 | 2475 |
 
 ## Release assets
 
@@ -84,6 +84,16 @@ Total: **178,711** lines of code across **455** files in the top 5 languages.
 | [rtk_1.0.1-1_amd64.deb](https://github.com/rtk-ai/rtk/releases/download/v1.0.1/rtk_1.0.1-1_amd64.deb) | 4.8 MiB | `runtime/deb/amd64` |
 | [rtk_amd64.deb](https://github.com/rtk-ai/rtk/releases/download/v1.0.1/rtk_amd64.deb) | 4.8 MiB | `runtime/deb/amd64` |
 
+## Distribution status
+
+Reported by **13** distros on [repology.org](https://repology.org/project/rtk). **8** are ✅ on the latest upstream release, **3** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Homebrew | `1.0.1` | ✅ latest |
+| Nix unstable | `1.0.1` | ✅ latest |
+| openSUSE Tumbleweed | `1.0.1` | ✅ latest |
+
 ## Improve this data
 
 Install metadata for rtk lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `rtk` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -93,4 +103,4 @@ Install metadata for rtk lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261022.yml` · 2026-10-22T04:59:49Z._
+_Snapshot: `data/card/261023.yml` · 2026-10-23T05:05:22Z._
