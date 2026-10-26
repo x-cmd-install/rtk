@@ -2,7 +2,7 @@
   subrepo: main
   binname: rtk
   visiblename: rtk
-  version: 1.0.1
+  version: 1.1.0
   origversion: null
   status: newest
   licenses:
@@ -22,19 +22,6 @@
     - Apache-2.0
   categories:
     - Development/Tools
-- repo: t2
-  srcname: rtk
-  visiblename: rtk
-  version: 1.0.1
-  origversion: null
-  status: newest
-  summary: CLI proxy that reduces LLM token consumption
-  maintainers:
-    - t2@t2-project.org
-  licenses:
-    - APL
-  categories:
-    - extra/tool
 - repo: altsisyphus
   srcname: rtk
   binnames:
@@ -54,8 +41,8 @@
   srcname: rtk
   binname: rtk
   visiblename: rtk
-  version: 1.0.1
-  origversion: 1.0.1-1
+  version: 1.1.0
+  origversion: 1.1.0-1
   status: newest
   summary: CLI proxy that reduces LLM token consumption by 60-90% on common dev commands
   maintainers:
@@ -66,8 +53,8 @@
   srcname: rtk-bin
   binname: rtk-bin
   visiblename: rtk-bin
-  version: 1.0.1
-  origversion: 1.0.1-1
+  version: 1.1.0
+  origversion: 1.1.0-1
   status: newest
   summary: CLI proxy that reduces LLM token consumption by 60-90% on common dev commands
   maintainers:
@@ -91,12 +78,12 @@
   visiblename: rtk
   version: 1.0.1
   origversion: null
-  status: newest
+  status: outdated
   summary: rtk is a command line proxy that cuts LLM token use on common development commands.
 - repo: homebrew
   srcname: rtk
   visiblename: rtk
-  version: 1.0.1
+  version: 1.1.0
   origversion: null
   status: newest
   summary: CLI proxy to minimize LLM token consumption
@@ -123,7 +110,7 @@
   visiblename: rtk
   version: 1.0.1
   origversion: null
-  status: newest
+  status: outdated
   summary: CLI proxy that reduces LLM token consumption by 60-90% on common dev commands
   maintainers:
     - gaetan@glepage.com
@@ -140,9 +127,22 @@
   visiblename: rtk
   version: 1.0.1
   origversion: 1.0.1-1.1
-  status: newest
+  status: outdated
   summary: CLI proxy that reduces LLM token consumption of dev commands
   licenses:
     - Apache-2.0 AND BSD-3-Clause AND CDLA-Permissive-2.0 AND ISC AND MIT AND MPL-2.0 AND Unicode-3.0
   categories:
     - Unspecified
+- repo: t2
+  srcname: rtk
+  visiblename: rtk
+  version: 1.0.1
+  origversion: null
+  status: outdated
+  summary: CLI proxy that reduces LLM token consumption
+  maintainers:
+    - t2@t2-project.org
+  licenses:
+    - APL
+  categories:
+    - extra/tool
