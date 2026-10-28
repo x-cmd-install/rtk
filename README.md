@@ -38,22 +38,22 @@ Total: **185,331** lines of code across **464** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 84,678 · **Forks**: 5,382 · **Open issues**: 1,909 · **Contributors**: 190
+- **Stars**: 84,820 · **Forks**: 5,387 · **Open issues**: 1,909 · **Contributors**: 190
 
 ## Totals (cumulative)
 
-- **Releases**: 441 · **Merged PRs**: 765 · **Open PRs**: 700 · **Closed issues**: 1007 · **Open issues**: 902 · **Commits**: 2537
+- **Releases**: 441 · **Merged PRs**: 765 · **Open PRs**: 711 · **Closed issues**: 1007 · **Open issues**: 902 · **Commits**: 2537
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-27 | 74 | 56 | 219 | 33 | 149 | 134 |
-| last60d | 2026-08-28 | 100 | 145 | 376 | 127 | 299 | 417 |
-| 90d | 2026-07-29 | 100 | 180 | 489 | 198 | 418 | 681 |
-| last180d | 2026-04-30 | 100 | 341 | 657 | 562 | 692 | 1137 |
-| 360d | 2025-11-01 | 100 | 765 | 700 | 1007 | 902 | 1813 |
-| last720d | 2024-11-06 | 100 | 765 | 700 | 1007 | 902 | 2537 |
+| 30d | 2026-09-28 | 72 | 52 | 222 | 29 | 142 | 134 |
+| last60d | 2026-08-29 | 100 | 142 | 384 | 123 | 291 | 417 |
+| 90d | 2026-07-30 | 100 | 177 | 493 | 194 | 415 | 681 |
+| last180d | 2026-05-01 | 100 | 339 | 665 | 557 | 690 | 1137 |
+| 360d | 2025-11-02 | 100 | 765 | 711 | 1007 | 902 | 1813 |
+| last720d | 2024-11-07 | 100 | 765 | 711 | 1007 | 902 | 2537 |
 
 ## Release assets
 
@@ -86,7 +86,7 @@ Total: **185,331** lines of code across **464** files in the top 5 languages.
 
 ## Distribution status
 
-Reported by **13** distros on [repology.org](https://repology.org/project/rtk). **4** are ✅ on the latest upstream release, **7** are ⚠️ on an older version.
+Reported by **13** distros on [repology.org](https://repology.org/project/rtk). **5** are ✅ on the latest upstream release, **6** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -103,4 +103,4 @@ Install metadata for rtk lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261027.yml` · 2026-10-27T05:22:55Z._
+_Snapshot: `data/card/261028.yml` · 2026-10-28T05:58:42Z._
