@@ -67,9 +67,9 @@
 - repo: chocolatey
   binname: rtk
   visiblename: rtk
-  version: 1.0.1
+  version: 1.1.0
   origversion: null
-  status: outdated
+  status: newest
   summary: rtk is a command line proxy that cuts LLM token use on common development commands.
 - repo: homebrew
   srcname: rtk
