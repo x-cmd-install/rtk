@@ -1,3 +1,41 @@
+- repo: opensuse_tumbleweed
+  subrepo: src-oss
+  srcname: rtk
+  binnames:
+    - rtk
+    - rtk-debuginfo
+    - rtk-debugsource
+  visiblename: rtk
+  version: 1.1.0
+  origversion: 1.1.0-1.1
+  status: newest
+  summary: CLI proxy that reduces LLM token consumption of dev commands
+  licenses:
+    - Apache-2.0 AND BSD-3-Clause AND CDLA-Permissive-2.0 AND ISC AND MIT AND MPL-2.0 AND Unicode-3.0 AND Zlib
+  categories:
+    - Unspecified
+- repo: scoop
+  subrepo: main
+  binname: rtk
+  visiblename: rtk
+  version: 1.1.0
+  origversion: null
+  status: newest
+  licenses:
+    - MIT
+- repo: t2
+  srcname: rtk
+  visiblename: rtk
+  version: 1.1.0
+  origversion: null
+  status: newest
+  summary: CLI proxy that reduces LLM token consumption
+  maintainers:
+    - t2@t2-project.org
+  licenses:
+    - APL
+  categories:
+    - extra/tool
 - repo: alt_p11
   srcname: rtk
   binnames:
@@ -122,41 +160,3 @@
     - gaetan@glepage.com
   licenses:
     - Apache-2.0
-- repo: opensuse_tumbleweed
-  subrepo: src-oss
-  srcname: rtk
-  binnames:
-    - rtk
-    - rtk-debuginfo
-    - rtk-debugsource
-  visiblename: rtk
-  version: 1.0.1
-  origversion: 1.0.1-1.1
-  status: outdated
-  summary: CLI proxy that reduces LLM token consumption of dev commands
-  licenses:
-    - Apache-2.0 AND BSD-3-Clause AND CDLA-Permissive-2.0 AND ISC AND MIT AND MPL-2.0 AND Unicode-3.0
-  categories:
-    - Unspecified
-- repo: scoop
-  subrepo: main
-  binname: rtk
-  visiblename: rtk
-  version: 1.1.0
-  origversion: null
-  status: newest
-  licenses:
-    - MIT
-- repo: t2
-  srcname: rtk
-  visiblename: rtk
-  version: 1.1.0
-  origversion: null
-  status: newest
-  summary: CLI proxy that reduces LLM token consumption
-  maintainers:
-    - t2@t2-project.org
-  licenses:
-    - APL
-  categories:
-    - extra/tool
