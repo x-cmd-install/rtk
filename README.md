@@ -32,28 +32,28 @@ Total: **195,332** lines of code across **474** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `dev-1.2.0-rc.619` (2026-10-25)
-- **Last commit**: 2026-11-06
+- **Latest**: `dev-1.2.0-rc.620` (2026-10-25)
+- **Last commit**: 2026-11-07
 - **Assets in release**: 24
 
 ## Popularity
 
-- **Stars**: 85,774 · **Forks**: 5,491 · **Open issues**: 1,971 · **Contributors**: 200
+- **Stars**: 85,854 · **Forks**: 5,500 · **Open issues**: 1,973 · **Contributors**: 200
 
 ## Totals (cumulative)
 
-- **Releases**: 470 · **Merged PRs**: 808 · **Open PRs**: 773 · **Closed issues**: 1046 · **Open issues**: 925 · **Commits**: 2719
+- **Releases**: 471 · **Merged PRs**: 809 · **Open PRs**: 772 · **Closed issues**: 1046 · **Open issues**: 927 · **Commits**: 2721
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-08 | 69 | 52 | 266 | 26 | 155 | 177 |
-| last60d | 2026-09-08 | 100 | 141 | 431 | 104 | 289 | 423 |
-| 90d | 2026-08-09 | 100 | 207 | 537 | 193 | 388 | 777 |
-| last180d | 2026-05-11 | 100 | 368 | 724 | 533 | 685 | 1218 |
-| 360d | 2025-11-12 | 100 | 808 | 773 | 1046 | 925 | 1924 |
-| last720d | 2024-11-17 | 100 | 808 | 773 | 1046 | 925 | 2719 |
+| 30d | 2026-10-09 | 67 | 53 | 261 | 25 | 153 | 178 |
+| last60d | 2026-09-09 | 100 | 140 | 427 | 102 | 288 | 424 |
+| 90d | 2026-08-10 | 100 | 207 | 531 | 189 | 386 | 778 |
+| last180d | 2026-05-12 | 100 | 369 | 724 | 528 | 685 | 1219 |
+| 360d | 2025-11-13 | 100 | 809 | 772 | 1046 | 927 | 1925 |
+| last720d | 2024-11-18 | 100 | 809 | 772 | 1046 | 927 | 2721 |
 
 ## Release assets
 
@@ -103,4 +103,4 @@ Install metadata for rtk lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261107.yml` · 2026-11-07T06:16:00Z._
+_Snapshot: `data/card/261108.yml` · 2026-11-08T06:20:25Z._
