@@ -14,11 +14,11 @@ x install rtk
 
 ## Code insight
 
-Total: **195,332** lines of code across **474** files in the top 5 languages.
+Total: **195,568** lines of code across **476** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 180,088 | 7,934 | 17,355 | 314 |
+| Rust | 180,324 | 7,935 | 17,374 | 316 |
 | Json | 7,316 | 0 | 0 | 49 |
 | Sh | 2,867 | 499 | 755 | 19 |
 | Toml | 2,767 | 368 | 283 | 83 |
@@ -32,67 +32,78 @@ Total: **195,332** lines of code across **474** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `dev-1.2.0-rc.620` (2026-10-25)
-- **Last commit**: 2026-11-07
-- **Assets in release**: 24
+- **Latest**: `dev-1.2.1-rc.627` (2026-11-08)
+- **Last commit**: 2026-11-08
+- **Assets in release**: 35
 
 ## Popularity
 
-- **Stars**: 85,854 · **Forks**: 5,500 · **Open issues**: 1,973 · **Contributors**: 200
+- **Stars**: 85,956 · **Forks**: 5,507 · **Open issues**: 1,979 · **Contributors**: 201
 
 ## Totals (cumulative)
 
-- **Releases**: 471 · **Merged PRs**: 809 · **Open PRs**: 772 · **Closed issues**: 1046 · **Open issues**: 927 · **Commits**: 2721
+- **Releases**: 475 · **Merged PRs**: 816 · **Open PRs**: 741 · **Closed issues**: 1063 · **Open issues**: 916 · **Commits**: 2735
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-09 | 67 | 53 | 261 | 25 | 153 | 178 |
-| last60d | 2026-09-09 | 100 | 140 | 427 | 102 | 288 | 424 |
-| 90d | 2026-08-10 | 100 | 207 | 531 | 189 | 386 | 778 |
-| last180d | 2026-05-12 | 100 | 369 | 724 | 528 | 685 | 1219 |
-| 360d | 2025-11-13 | 100 | 809 | 772 | 1046 | 927 | 1925 |
-| last720d | 2024-11-18 | 100 | 809 | 772 | 1046 | 927 | 2721 |
+| 30d | 2026-10-10 | 68 | 60 | 250 | 27 | 157 | 134 |
+| last60d | 2026-09-10 | 100 | 147 | 422 | 104 | 290 | 359 |
+| 90d | 2026-08-11 | 100 | 213 | 525 | 192 | 384 | 769 |
+| last180d | 2026-05-13 | 100 | 372 | 694 | 534 | 676 | 1204 |
+| 360d | 2025-11-14 | 100 | 816 | 741 | 1063 | 916 | 1933 |
+| last720d | 2024-11-19 | 100 | 816 | 741 | 1063 | 916 | 2735 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [checksums.txt](https://github.com/rtk-ai/rtk/releases/download/v1.1.0/checksums.txt) | 2.2 KiB | `other` |
-| [rtk-1.1.0-1.x86_64.rpm](https://github.com/rtk-ai/rtk/releases/download/v1.1.0/rtk-1.1.0-1.x86_64.rpm) | 5.2 MiB | `runtime/rpm/x86_64` |
-| [rtk-aarch64-apple-darwin.tar.gz](https://github.com/rtk-ai/rtk/releases/download/v1.1.0/rtk-aarch64-apple-darwin.tar.gz) | 5.7 MiB | `native/darwin/arm64` |
-| [rtk-aarch64-unknown-linux-gnu.tar.gz](https://github.com/rtk-ai/rtk/releases/download/v1.1.0/rtk-aarch64-unknown-linux-gnu.tar.gz) | 5.9 MiB | `native/linux/arm64/glibc` |
-| [rtk-oss-1.1.0-1.x86_64.rpm](https://github.com/rtk-ai/rtk/releases/download/v1.1.0/rtk-oss-1.1.0-1.x86_64.rpm) | 4.5 MiB | `runtime/rpm/x86_64` |
-| [rtk-oss-aarch64-apple-darwin.tar.gz](https://github.com/rtk-ai/rtk/releases/download/v1.1.0/rtk-oss-aarch64-apple-darwin.tar.gz) | 4.8 MiB | `native/darwin/arm64` |
-| [rtk-oss-aarch64-unknown-linux-gnu.tar.gz](https://github.com/rtk-ai/rtk/releases/download/v1.1.0/rtk-oss-aarch64-unknown-linux-gnu.tar.gz) | 5.1 MiB | `native/linux/arm64/glibc` |
-| [rtk-oss-x86_64-apple-darwin.tar.gz](https://github.com/rtk-ai/rtk/releases/download/v1.1.0/rtk-oss-x86_64-apple-darwin.tar.gz) | 5.2 MiB | `native/darwin/x64` |
-| [rtk-oss-x86_64-pc-windows-msvc.zip](https://github.com/rtk-ai/rtk/releases/download/v1.1.0/rtk-oss-x86_64-pc-windows-msvc.zip) | 5.5 MiB | `native/win/x64` |
-| [rtk-oss-x86_64-unknown-linux-musl.tar.gz](https://github.com/rtk-ai/rtk/releases/download/v1.1.0/rtk-oss-x86_64-unknown-linux-musl.tar.gz) | 5.6 MiB | `native/linux/x64/musl` |
-| [rtk-oss.x86_64.rpm](https://github.com/rtk-ai/rtk/releases/download/v1.1.0/rtk-oss.x86_64.rpm) | 4.5 MiB | `runtime/rpm/x86_64` |
-| [rtk-oss_1.1.0-1_amd64.deb](https://github.com/rtk-ai/rtk/releases/download/v1.1.0/rtk-oss_1.1.0-1_amd64.deb) | 4.2 MiB | `runtime/deb/amd64` |
-| [rtk-oss_amd64.deb](https://github.com/rtk-ai/rtk/releases/download/v1.1.0/rtk-oss_amd64.deb) | 4.2 MiB | `runtime/deb/amd64` |
-| [rtk-proxy-aarch64-apple-darwin.tar.gz](https://github.com/rtk-ai/rtk/releases/download/v1.1.0/rtk-proxy-aarch64-apple-darwin.tar.gz) | 7.3 MiB | `native/darwin/arm64` |
-| [rtk-proxy-aarch64-unknown-linux-gnu.tar.gz](https://github.com/rtk-ai/rtk/releases/download/v1.1.0/rtk-proxy-aarch64-unknown-linux-gnu.tar.gz) | 7.9 MiB | `native/linux/arm64/glibc` |
-| [rtk-proxy-x86_64-apple-darwin.tar.gz](https://github.com/rtk-ai/rtk/releases/download/v1.1.0/rtk-proxy-x86_64-apple-darwin.tar.gz) | 7.4 MiB | `native/darwin/x64` |
-| [rtk-proxy-x86_64-pc-windows-msvc.zip](https://github.com/rtk-ai/rtk/releases/download/v1.1.0/rtk-proxy-x86_64-pc-windows-msvc.zip) | 6.6 MiB | `native/win/x64` |
-| [rtk-proxy-x86_64-unknown-linux-musl.tar.gz](https://github.com/rtk-ai/rtk/releases/download/v1.1.0/rtk-proxy-x86_64-unknown-linux-musl.tar.gz) | 8.2 MiB | `native/linux/x64/musl` |
-| [rtk-x86_64-apple-darwin.tar.gz](https://github.com/rtk-ai/rtk/releases/download/v1.1.0/rtk-x86_64-apple-darwin.tar.gz) | 6.1 MiB | `native/darwin/x64` |
-| [rtk-x86_64-pc-windows-msvc.zip](https://github.com/rtk-ai/rtk/releases/download/v1.1.0/rtk-x86_64-pc-windows-msvc.zip) | 6.5 MiB | `native/win/x64` |
-| [rtk-x86_64-unknown-linux-musl.tar.gz](https://github.com/rtk-ai/rtk/releases/download/v1.1.0/rtk-x86_64-unknown-linux-musl.tar.gz) | 6.5 MiB | `native/linux/x64/musl` |
-| [rtk.x86_64.rpm](https://github.com/rtk-ai/rtk/releases/download/v1.1.0/rtk.x86_64.rpm) | 5.2 MiB | `runtime/rpm/x86_64` |
-| [rtk_1.1.0-1_amd64.deb](https://github.com/rtk-ai/rtk/releases/download/v1.1.0/rtk_1.1.0-1_amd64.deb) | 4.8 MiB | `runtime/deb/amd64` |
-| [rtk_amd64.deb](https://github.com/rtk-ai/rtk/releases/download/v1.1.0/rtk_amd64.deb) | 4.8 MiB | `runtime/deb/amd64` |
+| [checksums.txt](https://github.com/rtk-ai/rtk/releases/download/v1.2.0/checksums.txt) | 3.2 KiB | `other` |
+| [rtk-1.2.0-1.aarch64.rpm](https://github.com/rtk-ai/rtk/releases/download/v1.2.0/rtk-1.2.0-1.aarch64.rpm) | 6.0 MiB | `runtime/rpm/aarch64` |
+| [rtk-1.2.0-1.x86_64.rpm](https://github.com/rtk-ai/rtk/releases/download/v1.2.0/rtk-1.2.0-1.x86_64.rpm) | 6.7 MiB | `runtime/rpm/x86_64` |
+| [rtk-aarch64-apple-darwin.tar.gz](https://github.com/rtk-ai/rtk/releases/download/v1.2.0/rtk-aarch64-apple-darwin.tar.gz) | 5.7 MiB | `native/darwin/arm64` |
+| [rtk-aarch64-unknown-linux-gnu.tar.gz](https://github.com/rtk-ai/rtk/releases/download/v1.2.0/rtk-aarch64-unknown-linux-gnu.tar.gz) | 6.0 MiB | `native/linux/arm64/glibc` |
+| [rtk-aarch64-unknown-linux-musl.tar.gz](https://github.com/rtk-ai/rtk/releases/download/v1.2.0/rtk-aarch64-unknown-linux-musl.tar.gz) | 6.1 MiB | `native/linux/arm64/musl` |
+| [rtk-oss-1.2.0-1.aarch64.rpm](https://github.com/rtk-ai/rtk/releases/download/v1.2.0/rtk-oss-1.2.0-1.aarch64.rpm) | 5.2 MiB | `runtime/rpm/aarch64` |
+| [rtk-oss-1.2.0-1.x86_64.rpm](https://github.com/rtk-ai/rtk/releases/download/v1.2.0/rtk-oss-1.2.0-1.x86_64.rpm) | 5.8 MiB | `runtime/rpm/x86_64` |
+| [rtk-oss-aarch64-apple-darwin.tar.gz](https://github.com/rtk-ai/rtk/releases/download/v1.2.0/rtk-oss-aarch64-apple-darwin.tar.gz) | 4.9 MiB | `native/darwin/arm64` |
+| [rtk-oss-aarch64-unknown-linux-gnu.tar.gz](https://github.com/rtk-ai/rtk/releases/download/v1.2.0/rtk-oss-aarch64-unknown-linux-gnu.tar.gz) | 5.1 MiB | `native/linux/arm64/glibc` |
+| [rtk-oss-aarch64-unknown-linux-musl.tar.gz](https://github.com/rtk-ai/rtk/releases/download/v1.2.0/rtk-oss-aarch64-unknown-linux-musl.tar.gz) | 5.2 MiB | `native/linux/arm64/musl` |
+| [rtk-oss-x86_64-apple-darwin.tar.gz](https://github.com/rtk-ai/rtk/releases/download/v1.2.0/rtk-oss-x86_64-apple-darwin.tar.gz) | 5.3 MiB | `native/darwin/x64` |
+| [rtk-oss-x86_64-pc-windows-msvc.zip](https://github.com/rtk-ai/rtk/releases/download/v1.2.0/rtk-oss-x86_64-pc-windows-msvc.zip) | 5.6 MiB | `native/win/x64` |
+| [rtk-oss-x86_64-unknown-linux-musl.tar.gz](https://github.com/rtk-ai/rtk/releases/download/v1.2.0/rtk-oss-x86_64-unknown-linux-musl.tar.gz) | 5.8 MiB | `native/linux/x64/musl` |
+| [rtk-oss.aarch64.rpm](https://github.com/rtk-ai/rtk/releases/download/v1.2.0/rtk-oss.aarch64.rpm) | 5.2 MiB | `runtime/rpm/aarch64` |
+| [rtk-oss.x86_64.rpm](https://github.com/rtk-ai/rtk/releases/download/v1.2.0/rtk-oss.x86_64.rpm) | 5.8 MiB | `runtime/rpm/x86_64` |
+| [rtk-oss_1.2.0-1_amd64.deb](https://github.com/rtk-ai/rtk/releases/download/v1.2.0/rtk-oss_1.2.0-1_amd64.deb) | 4.4 MiB | `runtime/deb/amd64` |
+| [rtk-oss_1.2.0-1_arm64.deb](https://github.com/rtk-ai/rtk/releases/download/v1.2.0/rtk-oss_1.2.0-1_arm64.deb) | 3.7 MiB | `runtime/deb/arm64` |
+| [rtk-oss_amd64.deb](https://github.com/rtk-ai/rtk/releases/download/v1.2.0/rtk-oss_amd64.deb) | 4.4 MiB | `runtime/deb/amd64` |
+| [rtk-oss_arm64.deb](https://github.com/rtk-ai/rtk/releases/download/v1.2.0/rtk-oss_arm64.deb) | 3.7 MiB | `runtime/deb/arm64` |
+| [rtk-proxy-aarch64-apple-darwin.tar.gz](https://github.com/rtk-ai/rtk/releases/download/v1.2.0/rtk-proxy-aarch64-apple-darwin.tar.gz) | 7.3 MiB | `native/darwin/arm64` |
+| [rtk-proxy-aarch64-unknown-linux-gnu.tar.gz](https://github.com/rtk-ai/rtk/releases/download/v1.2.0/rtk-proxy-aarch64-unknown-linux-gnu.tar.gz) | 7.9 MiB | `native/linux/arm64/glibc` |
+| [rtk-proxy-aarch64-unknown-linux-musl.tar.gz](https://github.com/rtk-ai/rtk/releases/download/v1.2.0/rtk-proxy-aarch64-unknown-linux-musl.tar.gz) | 8.0 MiB | `native/linux/arm64/musl` |
+| [rtk-proxy-x86_64-apple-darwin.tar.gz](https://github.com/rtk-ai/rtk/releases/download/v1.2.0/rtk-proxy-x86_64-apple-darwin.tar.gz) | 7.4 MiB | `native/darwin/x64` |
+| [rtk-proxy-x86_64-pc-windows-msvc.zip](https://github.com/rtk-ai/rtk/releases/download/v1.2.0/rtk-proxy-x86_64-pc-windows-msvc.zip) | 6.6 MiB | `native/win/x64` |
+| [rtk-proxy-x86_64-unknown-linux-musl.tar.gz](https://github.com/rtk-ai/rtk/releases/download/v1.2.0/rtk-proxy-x86_64-unknown-linux-musl.tar.gz) | 8.3 MiB | `native/linux/x64/musl` |
+| [rtk-x86_64-apple-darwin.tar.gz](https://github.com/rtk-ai/rtk/releases/download/v1.2.0/rtk-x86_64-apple-darwin.tar.gz) | 6.2 MiB | `native/darwin/x64` |
+| [rtk-x86_64-pc-windows-msvc.zip](https://github.com/rtk-ai/rtk/releases/download/v1.2.0/rtk-x86_64-pc-windows-msvc.zip) | 6.5 MiB | `native/win/x64` |
+| [rtk-x86_64-unknown-linux-musl.tar.gz](https://github.com/rtk-ai/rtk/releases/download/v1.2.0/rtk-x86_64-unknown-linux-musl.tar.gz) | 6.8 MiB | `native/linux/x64/musl` |
+| [rtk.aarch64.rpm](https://github.com/rtk-ai/rtk/releases/download/v1.2.0/rtk.aarch64.rpm) | 6.0 MiB | `runtime/rpm/aarch64` |
+| [rtk.x86_64.rpm](https://github.com/rtk-ai/rtk/releases/download/v1.2.0/rtk.x86_64.rpm) | 6.7 MiB | `runtime/rpm/x86_64` |
+| [rtk_1.2.0-1_amd64.deb](https://github.com/rtk-ai/rtk/releases/download/v1.2.0/rtk_1.2.0-1_amd64.deb) | 5.1 MiB | `runtime/deb/amd64` |
+| [rtk_1.2.0-1_arm64.deb](https://github.com/rtk-ai/rtk/releases/download/v1.2.0/rtk_1.2.0-1_arm64.deb) | 4.3 MiB | `runtime/deb/arm64` |
+| [rtk_amd64.deb](https://github.com/rtk-ai/rtk/releases/download/v1.2.0/rtk_amd64.deb) | 5.1 MiB | `runtime/deb/amd64` |
+| [rtk_arm64.deb](https://github.com/rtk-ai/rtk/releases/download/v1.2.0/rtk_arm64.deb) | 4.3 MiB | `runtime/deb/arm64` |
 
 ## Distribution status
 
-Reported by **14** distros on [repology.org](https://repology.org/project/rtk). **9** are ✅ on the latest upstream release, **3** are ⚠️ on an older version.
+Reported by **14** distros on [repology.org](https://repology.org/project/rtk). **4** are ✅ on the latest upstream release, **8** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
-| Homebrew | `1.1.0` | ✅ latest |
-| Nix unstable | `1.1.0` | ✅ latest |
-| openSUSE Tumbleweed | `1.1.0` | ✅ latest |
+| Homebrew | `1.2.0` | ✅ latest |
+| Nix unstable | `1.1.0` | ⚠️ outdated |
+| openSUSE Tumbleweed | `1.1.0` | ⚠️ outdated |
 
 ## Improve this data
 
@@ -103,4 +114,4 @@ Install metadata for rtk lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261108.yml` · 2026-11-08T06:20:25Z._
+_Snapshot: `data/card/261109.yml` · 2026-11-09T06:48:52Z._
