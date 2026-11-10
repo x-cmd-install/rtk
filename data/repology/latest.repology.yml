@@ -1,3 +1,10 @@
+- repo: homebrew
+  srcname: rtk
+  visiblename: rtk
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: CLI proxy to minimize LLM token consumption
 - repo: alt_p11
   srcname: rtk
   binnames:
@@ -78,13 +85,6 @@
   origversion: null
   status: newest
   summary: CLI proxy to minimize LLM token consumption
-- repo: homebrew
-  srcname: rtk
-  visiblename: rtk
-  version: HEAD
-  origversion: null
-  status: rolling
-  summary: CLI proxy to minimize LLM token consumption
 - repo: macports
   srcname: sysutils/rtk
   binname: rtk
@@ -150,9 +150,9 @@
 - repo: t2
   srcname: rtk
   visiblename: rtk
-  version: 1.1.0
+  version: 1.2.0
   origversion: null
-  status: outdated
+  status: newest
   summary: CLI proxy that reduces LLM token consumption
   maintainers:
     - t2@t2-project.org
