@@ -38,22 +38,22 @@ Total: **196,662** lines of code across **478** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 86,282 · **Forks**: 5,526 · **Open issues**: 1,988 · **Contributors**: 202
+- **Stars**: 86,411 · **Forks**: 5,537 · **Open issues**: 1,996 · **Contributors**: 202
 
 ## Totals (cumulative)
 
-- **Releases**: 481 · **Merged PRs**: 826 · **Open PRs**: 748 · **Closed issues**: 1066 · **Open issues**: 922 · **Commits**: 2773
+- **Releases**: 481 · **Merged PRs**: 826 · **Open PRs**: 754 · **Closed issues**: 1066 · **Open issues**: 930 · **Commits**: 2773
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-13 | 71 | 62 | 240 | 25 | 151 | 157 |
-| last60d | 2026-09-13 | 100 | 146 | 418 | 95 | 279 | 382 |
-| 90d | 2026-08-14 | 100 | 219 | 523 | 191 | 385 | 792 |
-| last180d | 2026-05-16 | 100 | 380 | 698 | 527 | 671 | 1229 |
-| 360d | 2025-11-17 | 100 | 826 | 747 | 1066 | 922 | 1958 |
-| last720d | 2024-11-22 | 100 | 826 | 747 | 1066 | 922 | 2773 |
+| 30d | 2026-10-14 | 67 | 53 | 243 | 23 | 152 | 157 |
+| last60d | 2026-09-14 | 100 | 142 | 410 | 90 | 284 | 382 |
+| 90d | 2026-08-15 | 100 | 218 | 525 | 190 | 393 | 792 |
+| last180d | 2026-05-17 | 100 | 379 | 703 | 525 | 679 | 1229 |
+| 360d | 2025-11-18 | 100 | 826 | 754 | 1066 | 930 | 1958 |
+| last720d | 2024-11-23 | 100 | 826 | 754 | 1066 | 930 | 2773 |
 
 ## Release assets
 
@@ -97,12 +97,12 @@ Total: **196,662** lines of code across **478** files in the top 5 languages.
 
 ## Distribution status
 
-Reported by **14** distros on [repology.org](https://repology.org/project/rtk). **5** are ✅ on the latest upstream release, **7** are ⚠️ on an older version.
+Reported by **14** distros on [repology.org](https://repology.org/project/rtk). **6** are ✅ on the latest upstream release, **6** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
-| Homebrew | `HEAD` | 🔄 rolling |
-| Nix unstable | `1.1.0` | ⚠️ outdated |
+| Homebrew | `1.2.0` | ✅ latest |
+| Nix unstable | `1.2.0` | ✅ latest |
 | openSUSE Tumbleweed | `1.1.0` | ⚠️ outdated |
 
 ## Improve this data
@@ -114,4 +114,4 @@ Install metadata for rtk lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261112.yml` · 2026-11-12T07:44:28Z._
+_Snapshot: `data/card/261113.yml` · 2026-11-13T07:09:01Z._
