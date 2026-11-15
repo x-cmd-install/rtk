@@ -38,22 +38,22 @@ Total: **196,662** lines of code across **478** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 86,523 · **Forks**: 5,544 · **Open issues**: 2,001 · **Contributors**: 202
+- **Stars**: 86,606 · **Forks**: 5,551 · **Open issues**: 2,003 · **Contributors**: 202
 
 ## Totals (cumulative)
 
-- **Releases**: 481 · **Merged PRs**: 826 · **Open PRs**: 762 · **Closed issues**: 1066 · **Open issues**: 935 · **Commits**: 2773
+- **Releases**: 481 · **Merged PRs**: 826 · **Open PRs**: 770 · **Closed issues**: 1067 · **Open issues**: 936 · **Commits**: 2773
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-15 | 62 | 50 | 249 | 23 | 151 | 157 |
-| last60d | 2026-09-15 | 100 | 139 | 412 | 87 | 286 | 382 |
-| 90d | 2026-08-16 | 100 | 217 | 533 | 188 | 397 | 792 |
-| last180d | 2026-05-18 | 100 | 378 | 709 | 517 | 678 | 1229 |
-| 360d | 2025-11-19 | 100 | 826 | 762 | 1066 | 935 | 1958 |
-| last720d | 2024-11-24 | 100 | 826 | 762 | 1066 | 935 | 2773 |
+| 30d | 2026-10-16 | 60 | 50 | 248 | 23 | 139 | 157 |
+| last60d | 2026-09-16 | 100 | 139 | 418 | 88 | 286 | 382 |
+| 90d | 2026-08-17 | 100 | 216 | 539 | 187 | 396 | 792 |
+| last180d | 2026-05-19 | 100 | 378 | 715 | 513 | 678 | 1229 |
+| 360d | 2025-11-20 | 100 | 826 | 770 | 1067 | 936 | 1958 |
+| last720d | 2024-11-25 | 100 | 826 | 770 | 1067 | 936 | 2773 |
 
 ## Release assets
 
@@ -114,4 +114,4 @@ Install metadata for rtk lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261114.yml` · 2026-11-14T06:50:47Z._
+_Snapshot: `data/card/261115.yml` · 2026-11-15T06:46:45Z._
