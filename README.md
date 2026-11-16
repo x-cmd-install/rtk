@@ -14,15 +14,15 @@ x install rtk
 
 ## Code insight
 
-Total: **196,662** lines of code across **478** files in the top 5 languages.
+Total: **197,328** lines of code across **478** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 181,417 | 7,976 | 17,467 | 318 |
+| Rust | 181,742 | 7,981 | 17,498 | 318 |
 | Json | 7,316 | 0 | 0 | 49 |
 | Sh | 2,867 | 499 | 755 | 19 |
 | Toml | 2,768 | 368 | 283 | 83 |
-| TypeScript | 955 | 337 | 193 | 9 |
+| TypeScript | 1,030 | 357 | 203 | 9 |
 
 ## Source
 
@@ -32,28 +32,28 @@ Total: **196,662** lines of code across **478** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `dev-1.2.1-rc.637` (2026-11-08)
-- **Last commit**: 2026-11-12
+- **Latest**: `dev-1.2.1-rc.640` (2026-11-08)
+- **Last commit**: 2026-11-16
 - **Assets in release**: 35
 
 ## Popularity
 
-- **Stars**: 86,606 · **Forks**: 5,551 · **Open issues**: 2,003 · **Contributors**: 202
+- **Stars**: 86,696 · **Forks**: 5,560 · **Open issues**: 2,006 · **Contributors**: 202
 
 ## Totals (cumulative)
 
-- **Releases**: 481 · **Merged PRs**: 826 · **Open PRs**: 770 · **Closed issues**: 1067 · **Open issues**: 936 · **Commits**: 2773
+- **Releases**: 483 · **Merged PRs**: 829 · **Open PRs**: 727 · **Closed issues**: 1074 · **Open issues**: 932 · **Commits**: 2789
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-16 | 60 | 50 | 248 | 23 | 139 | 157 |
-| last60d | 2026-09-16 | 100 | 139 | 418 | 88 | 286 | 382 |
-| 90d | 2026-08-17 | 100 | 216 | 539 | 187 | 396 | 792 |
-| last180d | 2026-05-19 | 100 | 378 | 715 | 513 | 678 | 1229 |
-| 360d | 2025-11-20 | 100 | 826 | 770 | 1067 | 936 | 1958 |
-| last720d | 2024-11-25 | 100 | 826 | 770 | 1067 | 936 | 2773 |
+| 30d | 2026-10-17 | 61 | 49 | 233 | 23 | 133 | 108 |
+| last60d | 2026-09-17 | 100 | 141 | 409 | 88 | 283 | 348 |
+| 90d | 2026-08-18 | 100 | 219 | 526 | 189 | 397 | 707 |
+| last180d | 2026-05-20 | 100 | 378 | 671 | 516 | 670 | 1198 |
+| 360d | 2025-11-21 | 100 | 829 | 727 | 1074 | 932 | 1971 |
+| last720d | 2024-11-26 | 100 | 829 | 727 | 1074 | 932 | 2789 |
 
 ## Release assets
 
@@ -97,7 +97,7 @@ Total: **196,662** lines of code across **478** files in the top 5 languages.
 
 ## Distribution status
 
-Reported by **14** distros on [repology.org](https://repology.org/project/rtk). **6** are ✅ on the latest upstream release, **6** are ⚠️ on an older version.
+Reported by **14** distros on [repology.org](https://repology.org/project/rtk). **7** are ✅ on the latest upstream release, **5** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -114,4 +114,4 @@ Install metadata for rtk lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261115.yml` · 2026-11-15T06:46:45Z._
+_Snapshot: `data/card/261116.yml` · 2026-11-16T06:54:27Z._
