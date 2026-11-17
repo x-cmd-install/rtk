@@ -1,3 +1,17 @@
+- repo: homebrew
+  srcname: rtk
+  visiblename: rtk
+  version: 1.2.0
+  origversion: null
+  status: newest
+  summary: CLI proxy to minimize LLM token consumption
+- repo: homebrew
+  srcname: rtk
+  visiblename: rtk
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: CLI proxy to minimize LLM token consumption
 - repo: alt_p11
   srcname: rtk
   binnames:
@@ -71,20 +85,6 @@
   origversion: null
   status: newest
   summary: rtk is a command line proxy that cuts LLM token use on common development commands.
-- repo: homebrew
-  srcname: rtk
-  visiblename: rtk
-  version: 1.2.0
-  origversion: null
-  status: newest
-  summary: CLI proxy to minimize LLM token consumption
-- repo: homebrew
-  srcname: rtk
-  visiblename: rtk
-  version: HEAD
-  origversion: null
-  status: rolling
-  summary: CLI proxy to minimize LLM token consumption
 - repo: macports
   srcname: sysutils/rtk
   binname: rtk
@@ -130,9 +130,9 @@
     - rtk-debuginfo
     - rtk-debugsource
   visiblename: rtk
-  version: 1.1.0
-  origversion: 1.1.0-1.1
-  status: outdated
+  version: 1.2.0
+  origversion: 1.2.0-1.1
+  status: newest
   summary: CLI proxy that reduces LLM token consumption of dev commands
   licenses:
     - Apache-2.0 AND BSD-3-Clause AND CDLA-Permissive-2.0 AND ISC AND MIT AND MPL-2.0 AND Unicode-3.0 AND Zlib
